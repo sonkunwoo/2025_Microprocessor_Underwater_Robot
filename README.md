@@ -4,7 +4,7 @@
 
 ---
 
-![image.png](image.png)
+<img width="2091" height="1169" alt="Image" src="https://github.com/user-attachments/assets/0dc01e5d-0d94-43f9-b0ec-1864d40ebc46" />
 
 2025 마이크로프로세서
 
@@ -16,9 +16,9 @@
 
 ---
 
-![image.png](image%201.png)
+<img width="1540" height="786" alt="Image" src="https://github.com/user-attachments/assets/3be8aee8-0932-49b1-9df6-b499ae616047" />
 
-![image.png](image%202.png)
+<img width="1903" height="1023" alt="Image" src="https://github.com/user-attachments/assets/c2bfff1c-1ef5-428d-890d-603388b2f8d6" />
 
 ### 사이즈
 
@@ -40,11 +40,11 @@
 
 ### 소프트웨어 구성
 
-![image.png](image%203.png)
+<img width="1986" height="1065" alt="Image" src="https://github.com/user-attachments/assets/d9e817d3-f24f-4c7b-9dd1-71e530ec9e0a" />
 
 ### 전장 구성
 
-![image.png](image%204.png)
+<img width="2090" height="1064" alt="Image" src="https://github.com/user-attachments/assets/6fc9e87b-8074-478c-829e-561a80b72db2" />
 
 # Motion
 
@@ -52,19 +52,19 @@
 
 ### 전진
 
-[IMG_1157.MOV](IMG_1157.mov)
+![Image](https://github.com/user-attachments/assets/3f2434cb-1e70-46f4-bbf7-918a4549eeaf)
 
 ### 후진
 
-[IMG_1158.MOV](IMG_1158.mov)
+![Image](https://github.com/user-attachments/assets/40358e43-f5c4-483b-8e97-0ff1453e9625)
 
 ### 우회전
 
-[IMG_1161.MOV](IMG_1161.mov)
+![Image](https://github.com/user-attachments/assets/d050a61d-d248-4310-a2b3-5b10d7bd5c57)
 
 ### 좌회전
 
-[IMG_1159.MOV](IMG_1159.mov)
+![Image](https://github.com/user-attachments/assets/d8c097b4-e067-4a1a-89c6-1ea0db68221a)
 
 # Reference
 
