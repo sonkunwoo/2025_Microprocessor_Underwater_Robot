@@ -18,7 +18,6 @@
 
 <img width="1540" height="786" alt="Image" src="https://github.com/user-attachments/assets/3be8aee8-0932-49b1-9df6-b499ae616047" />
 
-<img width="1903" height="1023" alt="Image" src="https://github.com/user-attachments/assets/c2bfff1c-1ef5-428d-890d-603388b2f8d6" />
 
 ### 사이즈
 
@@ -40,7 +39,7 @@
 
 ### 소프트웨어 구성
 
-<img width="1986" height="1065" alt="Image" src="https://github.com/user-attachments/assets/d9e817d3-f24f-4c7b-9dd1-71e530ec9e0a" />
+<img width="2090" height="1064" alt="Image" src="https://github.com/user-attachments/assets/6fc9e87b-8074-478c-829e-561a80b72db2" />
 
 ### 전장 구성
 
