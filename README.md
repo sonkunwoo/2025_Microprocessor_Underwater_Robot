@@ -3,8 +3,7 @@
 # Design
 
 ---
-
-<img width="2091" height="1169" alt="Image" src="https://github.com/user-attachments/assets/0dc01e5d-0d94-43f9-b0ec-1864d40ebc46" />
+<img width="2090" height="1064" alt="Image" src="https://github.com/user-attachments/assets/6fc9e87b-8074-478c-829e-561a80b72db2" />
 
 2025 마이크로프로세서
 
@@ -17,6 +16,8 @@
 ---
 
 <img width="1540" height="786" alt="Image" src="https://github.com/user-attachments/assets/3be8aee8-0932-49b1-9df6-b499ae616047" />
+
+<img width="2091" height="1169" alt="Image" src="https://github.com/user-attachments/assets/0dc01e5d-0d94-43f9-b0ec-1864d40ebc46" />
 
 
 ### 사이즈
@@ -39,11 +40,11 @@
 
 ### 소프트웨어 구성
 
-<img width="2090" height="1064" alt="Image" src="https://github.com/user-attachments/assets/6fc9e87b-8074-478c-829e-561a80b72db2" />
+<img width="1903" height="1023" alt="Image" src="https://github.com/user-attachments/assets/02d78a19-2bf9-4214-8657-ff199ff2fca4" />
 
 ### 전장 구성
 
-<img width="2090" height="1064" alt="Image" src="https://github.com/user-attachments/assets/6fc9e87b-8074-478c-829e-561a80b72db2" />
+<img width="1986" height="1065" alt="Image" src="https://github.com/user-attachments/assets/8b080dd8-ee8e-451c-a373-676603c7b5e5" />
 
 # Motion
 
